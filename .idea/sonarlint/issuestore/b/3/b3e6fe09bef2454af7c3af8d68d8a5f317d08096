@@ -1,0 +1,22 @@
+
+F
+java:S3416"1Update this logger to use "AppRoleService.class".(±¿Â1
+W
+java:S3457+"AFormat specifiers should be used instead of string concatenation.(ä××‘
+c
+java:S3457-"AFormat specifiers should be used instead of string concatenation.(‘‚åÔùÿÿÿÿ8İÕ¶ÁÃ0
+c
+java:S34572"AFormat specifiers should be used instead of string concatenation.(õ•úÿÿÿÿ8Øı¸ÁÃ0
+V	java:S125Y"<This block of commented-out lines of code should be removed.(±ô¸úÿÿÿÿ
+Q	java:S125p"<This block of commented-out lines of code should be removed.(÷±é
+g
+java:S1128
+"QRemove this unused import 'org.jangaon.familyfriendsservice.config.AspectConfig'.(¾ëû×
+a
+java:S1128"LRemove this unused import 'org.jangaon.familyfriendsservice.entity.AppUser'.(İß
+o
+java:S1128"TRemove this unused import 'org.jangaon.familyfriendsservice.modle.request.UserForm'.(öç˜óúÿÿÿÿ
+o
+java:S1128"ZRemove this unused import 'org.jangaon.familyfriendsservice.repository.AppUserRepository'.(¹’ï{
+V
+java:S1128"@Remove this unused import 'org.springframework.beans.BeanUtils'.(ŠğÄÜ
